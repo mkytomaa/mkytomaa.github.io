@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>Markus Kytomaa Home</title>
+	
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed" rel="stylesheet">
+	<!--<link href=<link href="https://fonts.googleapis.com/css?family=Raleway: 300,400,700" rel="stylesheet" type="text/css"> -->
+
+</head>
+
+
+<body>
+	<div id="menu-bar">
+		<div id="nav-content">
+			<!-- <div><img id=IMDb-logo src="assets/images/IMDblogo.png"/></div> -->
+		<!-- <div id="search-bar-wrapper"> -->
+			<!-- <div><input id="search-bar" type="text" placeholder="Search"></div>
+			 -->
+			<div class="menu-item">Home</div>
+			<div class="menu-item">About</div>
+			<div class="menu-item">Portfolio</div>
+		</div>
+	</div>
+
+	<div id="page-container">
+		<div id="photo-container">
+			<img class="img-circle" src="assets/img/markus_photo.jpg"
+				width="200"
+				height="200">
+			
+		</div>
+		
+		<div id="markus-text">
+
+		Hello! 
+		<br>
+		I’m Markus Kytomaa, and I’m currently an undergraduate at UC Berkeley studying Economics and Computer Science. During my time at Cal, I’ve tried to vary my experiences as much as possible. Two things that interest me in particular are design and analytics. I am excited by the prospect of ideating and prototyping a product through creative collaboration with team members, and I ultimately hope to work in Product Management.
+		</div>
+		<div id="welcome-text">Welcome to my website!</div>
+		<div id="underline-container">
+			<img id=markus-photo src="assets/img/underline.png"
+				width="300"
+				height="90">
+			
+		</div>
+
+		<!-- <img class=trailer src="assets/images/fredddddy.jpg"/> -->
+	</div>
+
+</body>
+
+<script src="https://code.jquery.com/jquery-1.11.0.min.js">
+</script>
+
+<script src="assets/js/script.js"></script>
+
+</html>
